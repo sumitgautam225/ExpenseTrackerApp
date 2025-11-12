@@ -1,6 +1,6 @@
 # Project Overview
 
-This repository contains a full-stack finance tracker with a Node/Express backend and a Vite/React frontend.
+This repository contains a full-stack Expense tracker with a Node/Express backend and a Vite/React frontend.
 
 - Backend: [backend/server.js](backend/server.js) — Express server and API entry point.
 - Frontend: [frontend/src/App.jsx](frontend/src/App.jsx) — React app root.
@@ -9,7 +9,7 @@ See individual READMEs:
 - [backend/README.md](backend/README.md)
 - [frontend/README.md](frontend/README.md)
 
-# Backend — Finance Tracker
+# Backend — Expense Tracker
 
 This folder implements the REST API that the frontend consumes.
 
